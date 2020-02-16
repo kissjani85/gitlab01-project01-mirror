@@ -7,7 +7,8 @@
 > 2, Set a mirror repository.
 >
 > 3, Regular archiving.
-
+>
+> 4, Create a simple code and test with use Docker Container.
 
 ## Main infrastructure
 
